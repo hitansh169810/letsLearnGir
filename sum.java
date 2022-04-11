@@ -5,7 +5,10 @@ public class sum{
         System.out.println(sum(2,3));
     }
 
+
+    
     public static int sum(int a,int b){
+        System.out.println("hitanshgit ");
         return (a+b);
     }
 }
